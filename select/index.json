@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Asheville",
+  "base_artist": "Glaive",
+  "createdAt": "2026-02-20T10:55:43.589150Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mars for the Rich (Live in Asheville '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/01_Mars_for_the_Rich_(Live_in_Asheville_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Plastic Boogie (Live in Asheville '19)",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Plastic_Boogie_(Live_in_Asheville_'19)_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Asheville",
+      "artist": "Hannah Elless & Bright Star Original Broadway Ensemble",
+      "has_synced": false,
+      "path": "select/03_Asheville_Hannah_Elless_&_Bright_Star_Original_Broadway_Ensemble.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "When You Get To Asheville",
+      "artist": "Steve Martin feat. Edie Brickell",
+      "has_synced": true,
+      "path": "select/04_When_You_Get_To_Asheville_Steve_Martin_feat._Edie_Brickell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mars For The Rich (Live In Asheville '19)",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/05_Mars_For_The_Rich_(Live_In_Asheville_'19)_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Plastic Boogie (Live In Asheville '19)",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/06_Plastic_Boogie_(Live_In_Asheville_'19)_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Asheville",
+      "artist": "They Might Be Giants",
+      "has_synced": false,
+      "path": "select/07_Asheville_They_Might_Be_Giants.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "When You Get to Asheville",
+      "artist": "Steve Martin & Edie Brickell",
+      "has_synced": true,
+      "path": "select/08_When_You_Get_to_Asheville_Steve_Martin_&_Edie_Brickell.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Asheville Skies",
+      "artist": "The Milk Carton Kids",
+      "has_synced": true,
+      "path": "select/09_Asheville_Skies_The_Milk_Carton_Kids.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Asheville",
+      "artist": "Nana Grizol",
+      "has_synced": false,
+      "path": "select/10_Asheville_Nana_Grizol.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Asheville Nashville Austin",
+      "artist": "The Band of Heathens",
+      "has_synced": false,
+      "path": "select/11_Asheville_Nashville_Austin_The_Band_of_Heathens.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Asheville",
+      "artist": "Hannah Elless",
+      "has_synced": false,
+      "path": "select/12_Asheville_Hannah_Elless.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "When You Get To Asheville",
+      "artist": "Steve Martin",
+      "has_synced": true,
+      "path": "select/13_When_You_Get_To_Asheville_Steve_Martin.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Experimental Film (Asheville)",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/14_Experimental_Film_(Asheville)_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'm In Asheville",
+      "artist": "John Hiatt",
+      "has_synced": true,
+      "path": "select/15_I'm_In_Asheville_John_Hiatt.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Experimental Film [Live - Asheville]",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/16_Experimental_Film_[Live_-_Asheville]_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Asheville",
+      "artist": "Drex Carter",
+      "has_synced": false,
+      "path": "select/17_Asheville_Drex_Carter.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Asheville (The Orange Peel)",
+      "artist": "They Might Be Giants",
+      "has_synced": true,
+      "path": "select/18_Asheville_(The_Orange_Peel)_They_Might_Be_Giants.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "East Asheville Hardware",
+      "artist": "Wilcox, David",
+      "has_synced": false,
+      "path": "select/19_East_Asheville_Hardware_Wilcox,_David.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "I’m in Asheville",
+      "artist": "John Hiatt with the Jerry Douglas Band",
+      "has_synced": true,
+      "path": "select/20_I’m_in_Asheville_John_Hiatt_with_the_Jerry_Douglas_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Asheville",
+      "artist": "glaive",
+      "has_synced": false,
+      "path": "select/pl_01_Asheville_glaive.txt"
+    }
+  ]
+}
